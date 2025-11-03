@@ -1,0 +1,9 @@
+Package: com.lhh.reachplayer
+Name: ReachPlayer
+Version: 2.19
+Architecture: iphoneos-arm
+Description: Now Playing info in Reachability Window!
+Maintainer: lhh
+Author: lhh
+Section: Tweaks
+Depends: firmware (>= 15.0), com.ryannair05.audiosnapshotserver2
